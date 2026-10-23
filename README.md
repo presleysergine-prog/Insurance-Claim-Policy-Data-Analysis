@@ -77,14 +77,6 @@ PolicyEndDate
 
 flowchart
 
-    A[🗄️ Raw CSV<br/>SQL Server] --> B[🔌 Load<br/>Power BI]
-
-    B --> C[🔧 Clean<br/>Power Query]
-
-    C --> D[🔎 Analyze<br/>Claims & Policies]
-
-    D --> E[📊 Dashboard<br/>Power BI]
-
 	1.	Data storage: imported the raw CSV file into Microsoft SQL Server
 	2.	Data loading: connected Power BI Desktop to SQL Server and loaded the data
 	3.	Data cleaning: cleaned and transformed the data in Power Query, including adding Age Group and Active/Inactive columns
