@@ -47,7 +47,6 @@ Understand how claims and policies relate, and identify what drives claim volume
 
 ## 🧰 Tools Used
 
-## Tool	Purpose
 🗄️ Microsoft SQL Server	Storing the raw data
 🔧 Power Query	Data cleaning and transformation
 📊 Power BI Desktop	Dashboards and visualization
