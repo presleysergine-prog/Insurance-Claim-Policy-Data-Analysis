@@ -115,8 +115,10 @@ Claims far exceed premiums, which makes pricing and claim handling the top prior
 📁 Files in This Repository
 
 File	Description
-📄 InsuranceData.csv	Raw insurance dataset
-📊 insurance-cleaned-data-set.pbix	Power BI dashboard file
+
+| 📄 InsuranceData.csv	| Raw insurance dataset |
+
+| 📊 insurance-cleaned-data-set.pbix | Power BI dashboard file |
 
 👤 Author
 
