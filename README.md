@@ -116,7 +116,6 @@ Press Insurance collected 5.97M in premiums but faced 16.90M in claims, so claim
 
 ## ✅ Recommendations
 
-## [!IMPORTANT]
 Claims far exceed premiums, which makes pricing and claim handling the top priorities.
 
 	•	💰 Review pricing: claims far exceed premiums, so premium rates may need a closer look, starting with the highest-claim segments.
