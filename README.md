@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Insurance Claim & Policy Data Analysis</h1>
+<h1 align="center"> Insurance Claim & Policy Data Analysis</h1>
 <p align="center">
   <i>Uncovering trends in claims, policy types, and risk for Press Insurance Pvt. Ltd.</i>
 </p>
