@@ -53,7 +53,7 @@ Press Insurance collected 5.97M in premiums but faced 16.90M in claims, so claim
 - **Target the Adult segment:** this group drives the most claim cost, so it is the best place to focus risk management.
 - **Improve retention:** reach out to inactive policyholders to bring back some of the 25% who have lapsed.
 
-## Files in This Respository
+## Files in This Repository
 
 | File | Description |
 | --- | --- |
