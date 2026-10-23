@@ -57,8 +57,8 @@ Press Insurance collected 5.97M in premiums but faced 16.90M in claims, so claim
 
 | File | Description |
 | --- | --- |
-| 'InsuranceData.csv' | Raw insurance dataset |
-| 'insurance-cleaned-data-set.pbix' | Power BI Dashboard file |
+| `InsuranceData.csv` | Raw insurance dataset |
+| `insurance-cleaned-data-set.pbix` | Power BI dashboard file |
 
 ## Author
 
