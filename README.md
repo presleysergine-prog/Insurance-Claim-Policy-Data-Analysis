@@ -134,7 +134,7 @@ File	Description
 
 * 📊 insurance-cleaned-data-set.pbix | Power BI dashboard file |
 
-👤 Author
+## 👤 Author
 
 Presley Ufuoma Sergine
 Data Analyst | Lagos, Nigeria
