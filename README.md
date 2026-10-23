@@ -48,7 +48,9 @@ Understand how claims and policies relate, and identify what drives claim volume
 ## 🧰 Tools Used
 
 🗄️ Microsoft SQL Server	Storing the raw data
+
 🔧 Power Query	Data cleaning and transformation
+
 📊 Power BI Desktop	Dashboards and visualization
 
 ## 📂 Dataset
@@ -73,10 +75,14 @@ PolicyEndDate
 
 ## 🔄 Approach
 
-flowchart LR
+flowchart
+
     A[🗄️ Raw CSV<br/>SQL Server] --> B[🔌 Load<br/>Power BI]
+
     B --> C[🔧 Clean<br/>Power Query]
+
     C --> D[🔎 Analyze<br/>Claims & Policies]
+
     D --> E[📊 Dashboard<br/>Power BI]
 
 	1.	Data storage: imported the raw CSV file into Microsoft SQL Server
