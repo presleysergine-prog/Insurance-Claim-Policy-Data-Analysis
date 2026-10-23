@@ -19,31 +19,40 @@
 [!NOTE]
 This project analyzes a fictional company, Press Insurance Pvt. Ltd. The data is sample data from a bootcamp and does not represent real customers.
 
-📑 Table of Contents
+## 📑 Table of Contents
 
 	•	🎯 Objective
+
 	•	🧰 Tools Used
+
 	•	📂 Dataset
+
 	•	🔄 Approach
+
 	•	📊 Dashboard Preview
+
 	•	🔍 Key Findings
+
 	•	📝 Summary
+
 	•	✅ Recommendations
+
 	•	📁 Files in This Repository
+
 	•	👤 Author
 
-🎯 Objective
+## 🎯 Objective
 
 Understand how claims and policies relate, and identify what drives claim volume and cost, to support better underwriting and business decisions.
 
-🧰 Tools Used
+## 🧰 Tools Used
 
-Tool	Purpose
+## Tool	Purpose
 🗄️ Microsoft SQL Server	Storing the raw data
 🔧 Power Query	Data cleaning and transformation
 📊 Power BI Desktop	Dashboards and visualization
 
-📂 Dataset
+## 📂 Dataset
 
 Detail	Info
 Source	Complete Data Analyst Bootcamp (Udemy)
@@ -53,17 +62,17 @@ Size	10,000 customers (5,000 male, 5,000 female)
 <summary>📋 <b>Key fields</b> (click to expand)</summary>
 <br>
 
-Policy & Coverage	Claims	Customer
-PolicyNumber	ClaimNumber	CustomerID
-PolicyType	ClaimAmount	Age
-PremiumAmount	ClaimStatus	Age Group
-CoverageAmount	ClaimDate	Gender
-PolicyStartDate		Active/Inactive
+Policy & Coverage	Claims,	Customer
+PolicyNumber,	ClaimNumber	CustomerID,
+PolicyType,	ClaimAmount,	Age,
+PremiumAmount,	ClaimStatus, Age Group,
+CoverageAmount,	ClaimDate,	Gender,
+PolicyStartDate,		Active/Inactive,
 PolicyEndDate		
 
 </details>
 
-🔄 Approach
+## 🔄 Approach
 
 flowchart LR
     A[🗄️ Raw CSV<br/>SQL Server] --> B[🔌 Load<br/>Power BI]
@@ -77,7 +86,7 @@ flowchart LR
 	4.	Analysis: compared claim volume and amounts across policy types, age groups, and claim statuses
 	5.	Visualization: built a Power BI dashboard of the key metrics, with filters for policy, claim, and customer
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 <p align="center">
   <img width="100%" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/879e08ec-4468-4909-93fe-61cdb484c509" />
@@ -90,35 +99,44 @@ flowchart LR
 </p>
 </details>
 
-🔍 Key Findings
+## 🔍 Key Findings
 
 	Finding
+
 💸	Total claims (16.90M) were about 2.8x total premiums collected (5.97M).
+
 ✈️	Travel generated the highest premium (2.5M, ~42% of total), while Home was lowest (0.6M).
+
 ❌	Rejected claims were the largest group (~4.4K), ahead of settled (~3.4K) and pending (~2.3K).
+
 🧑	Adults accounted for the highest claim amount (8.8M, ~52%); Young Adults the lowest (1.7M).
+
 😴	About 25% of policies (2.51K) are inactive, a retention risk worth investigating.
 
-📝 Summary
+## 📝 Summary
 
 Press Insurance collected 5.97M in premiums but faced 16.90M in claims, so claim payouts are well above income. Travel is the company's biggest premium source, while Adults generate the most claim cost. Nearly half of all claims were rejected, and a quarter of policies are inactive.
 
-✅ Recommendations
+## ✅ Recommendations
 
 [!IMPORTANT]
 Claims far exceed premiums, which makes pricing and claim handling the top priorities.
+
 	•	💰 Review pricing: claims far exceed premiums, so premium rates may need a closer look, starting with the highest-claim segments.
+
 	•	🔎 Look into rejected claims: with about 44% of claims rejected, find out why. Reasons could include documentation gaps or policy exclusions.
+
 	•	🎯 Target the Adult segment: this group drives the most claim cost, so it is the best place to focus risk management.
+
 	•	🤝 Improve retention: reach out to inactive policyholders to bring back some of the 25% who have lapsed.
 
-📁 Files in This Repository
+## 📁 Files in This Repository
 
 File	Description
 
-| 📄 InsuranceData.csv	| Raw insurance dataset |
+* 📄 InsuranceData.csv	| Raw insurance dataset |
 
-| 📊 insurance-cleaned-data-set.pbix | Power BI dashboard file |
+* 📊 insurance-cleaned-data-set.pbix | Power BI dashboard file |
 
 👤 Author
 
