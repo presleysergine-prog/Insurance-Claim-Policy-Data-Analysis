@@ -57,5 +57,5 @@ Press Insurance collected 5.97M in premiums but faced 16.90M in claims, so claim
 ## Author
 
 **Presley Ufuoma Sergine**
-Data Analyst | Lagos, Nigeria |
-[LinkedIn](https://www.linkedin.com/in/presley-sergine-b9176343a) | +2348068102777 | presleysergine23@gmail.com
+Data Analyst | Lagos, Nigeria | | +2348068102777 | presleysergine23@gmail.com |
+[LinkedIn](https://www.linkedin.com/in/presley-sergine-b9176343a) 
