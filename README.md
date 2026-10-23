@@ -28,7 +28,7 @@ Understand how claims and policies relate, and identify what drives claim volume
 
 ## Dashboard Preview
 
-<img width="1897" height="1050" alt="Image" src="https://github.com/user-attachments/assets/30a6b3e1-1beb-45de-b56d-3d642d92031a" />
+<img width="1320" height="760" alt="Image" src="https://github.com/user-attachments/assets/879e08ec-4468-4909-93fe-61cdb484c509" />
 
 ## Power BI Workspace
 
