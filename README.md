@@ -16,7 +16,7 @@
 <p align="center">
   <img width="90%" alt="Dashboard" src="https://github.com/user-attachments/assets/879e08ec-4468-4909-93fe-61cdb484c509" />
 </p>
-[!NOTE]
+
 This project analyzes a fictional company, Press Insurance Pvt. Ltd. The data is sample data from a bootcamp and does not represent real customers.
 
 ## 📑 Table of Contents
@@ -103,15 +103,15 @@ flowchart LR
 
 	Finding
 
-💸	Total claims (16.90M) were about 2.8x total premiums collected (5.97M).
+• 💸	Total claims (16.90M) were about 2.8x total premiums collected (5.97M).
 
-✈️	Travel generated the highest premium (2.5M, ~42% of total), while Home was lowest (0.6M).
+• ✈️	Travel generated the highest premium (2.5M, ~42% of total), while Home was lowest (0.6M).
 
-❌	Rejected claims were the largest group (~4.4K), ahead of settled (~3.4K) and pending (~2.3K).
+• ❌	Rejected claims were the largest group (~4.4K), ahead of settled (~3.4K) and pending (~2.3K).
 
-🧑	Adults accounted for the highest claim amount (8.8M, ~52%); Young Adults the lowest (1.7M).
+• 🧑	Adults accounted for the highest claim amount (8.8M, ~52%); Young Adults the lowest (1.7M).
 
-😴	About 25% of policies (2.51K) are inactive, a retention risk worth investigating.
+• 😴	About 25% of policies (2.51K) are inactive, a retention risk worth investigating.
 
 ## 📝 Summary
 
@@ -119,7 +119,7 @@ Press Insurance collected 5.97M in premiums but faced 16.90M in claims, so claim
 
 ## ✅ Recommendations
 
-[!IMPORTANT]
+## [!IMPORTANT]
 Claims far exceed premiums, which makes pricing and claim handling the top priorities.
 
 	•	💰 Review pricing: claims far exceed premiums, so premium rates may need a closer look, starting with the highest-claim segments.
