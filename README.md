@@ -32,7 +32,7 @@ Understand how claims and policies relate, and identify what drives claim volume
 
 ## Power BI Workspace
 
-![Power BI Desktop](IMG_2826.jpeg)
+<img width="4032" height="2268" alt="Image" src="https://github.com/user-attachments/assets/9c95e2a7-3ba4-451e-a70e-11ae0ace6e15" />
 
 ## Key Findings
 
